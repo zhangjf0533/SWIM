@@ -4,3 +4,4 @@ wiki as the sole documentation source.
 
 Full documentation see https://github.com/SWIMProjectUCB/SWIM/wiki.
 
+In order to simulate periods of read-intensive workloads, we have modified the original FB-2010_samples_24_times_1hr_0.tsv file. The modified file is named 2010_samples_24_times_modified.tsv.
